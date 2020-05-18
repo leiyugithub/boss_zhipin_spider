@@ -13,7 +13,7 @@
     pip install -r requirements.txt
     
 ### 2.运行demo文件
-    python lagou_test.py
+    python boss_cookies.py
 
 ### 3. 如果我的demo 对你有帮助
     打赏一下我吧 您的支持 是我最大的动力
